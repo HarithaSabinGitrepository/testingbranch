@@ -1,2 +1,2 @@
 # testingbranch
-fonly for project assigned 
+only for project assigned 
